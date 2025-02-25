@@ -2607,3 +2607,4 @@ WorkflowSpec defineDataProcessing(ConfigContext const& cfg)
 {
   return WorkflowSpec{adaptAnalysisTask<CFFilter>(cfg)};
 }
+ 
